@@ -1,0 +1,1 @@
+uv run embedd --data-dir to_delete --model-config-path "/Users/ori/Documents/mblm-digital-twin/trained_models/config.yaml" --model-weight "/Users/ori/Documents/mblm-digital-twin/trained_models/" --tokenizer-uri ../dataset/patched-granite --output-path to_delete2/embeddings.csv
